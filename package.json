@@ -1,0 +1,16 @@
+{
+  "name": "cucumasoko",
+  "version": "1.0.0",
+  "description": "This tutorial describes the basic process of web automation using Cucumber",
+  "main": "index.js",
+  "dependencies": {
+    "cucumber": "^5.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
